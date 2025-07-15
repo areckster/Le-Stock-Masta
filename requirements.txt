@@ -1,0 +1,13 @@
+pandas
+numpy
+yfinance
+alpaca-trade-api
+llama-cpp-python
+lightgbm
+vectorbt
+pandas_ta
+duckdb
+fastapi
+uvicorn[standard]
+prometheus-client
+snscrape==0.7.0.20230622
